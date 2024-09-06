@@ -7,10 +7,12 @@
  #### 建立連接最前方需要空格
 ### 2.基礎HTML
 <h1> 測試外部連接 </h1>
- [yahoo](http://tw.yahoo.com)
+
+[yahoo](http://tw.yahoo.com)
 
 
 <h1> 測試顯示圖片 </h1>
+
  ![001.jpg](image/001.png)</a>
 
 ![101圖](image/300.jpg)</a>
