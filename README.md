@@ -6,7 +6,7 @@
 
 ###2.基礎HTML
 <h1> 測試外部連接 </h1>
-[yahoo](http://tw.yahoo.com)
+[yahoo] (http://tw.yahoo.com)
 
 
 <h1> 測試顯示圖片 </h1>
